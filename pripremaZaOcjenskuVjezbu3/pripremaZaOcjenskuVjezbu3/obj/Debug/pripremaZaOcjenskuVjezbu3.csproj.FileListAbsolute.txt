@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\bin\Debug\pripremaZaOcjenskuVjezbu3.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\bin\Debug\pripremaZaOcjenskuVjezbu3.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\bin\Debug\pripremaZaOcjenskuVjezbu3.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\obj\Debug\pripremaZaOcjenskuVjezbu3.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\obj\Debug\pripremaZaOcjenskuVjezbu3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\obj\Debug\pripremaZaOcjenskuVjezbu3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\obj\Debug\pripremaZaOcjenskuVjezbu3.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaOcjenskuVjezbu3\pripremaZaOcjenskuVjezbu3\obj\Debug\pripremaZaOcjenskuVjezbu3.pdb
